@@ -12,4 +12,4 @@ Personalization is done by a learning process that optimizes the parameters of t
 
 If you decide to re-use this code, please acknowledge the following publication, which presents the detailed evaluation of such personalization (choice of losses, hyperparameters, initial values):
 
-Konik A, Clarysse P, Duchateau N. Detailed evaluation of a population-wise personalization approach to generate synthetic myocardial infarct images. Pattern Recognition Letters 2024. In press.
+Konik A, Clarysse P, Duchateau N. Detailed evaluation of a population-wise personalization approach to generate synthetic myocardial infarct images. Pattern Recognition Letters. 2024. In press.
