@@ -2,7 +2,7 @@
 
 The Python notebook provides the generation of 2D images with infarcts with two simple models:
 - elliptical, represented by the intersection of one ellipse with the myocardium,
-- iterative spherical, represented by the random number of spheres intersected with myocardium.
+- iterative spherical, represented by the random number of spheres intersected with the myocardium.
 
 The learning process of parameters of the models is presented by the optimization algorithm CMA-ES.
 
