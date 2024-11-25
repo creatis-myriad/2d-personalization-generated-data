@@ -1,10 +1,10 @@
 import numpy as np
 
 
-def cart2pol(x, y):
+def cart2pol(x,y):
     rho = np.sqrt(x**2+y**2)
     phi = np.arctan2(y,x)
-    return(rho, phi)
+    return rho, phi
     
     
 def generate_elliptical(params,numberCases,X0,Y0,X,Y,startZone,myocardium,numberPixels):
