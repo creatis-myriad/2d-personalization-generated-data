@@ -6,10 +6,19 @@ The current code is applied to the following models:
 - elliptical, represented by the intersection of one ellipse with the myocardium,
 - iterative spherical, represented by the union of a random number of spheres intersected with the myocardium.
 
+<font color='red'>
+COMING RELEASE (in the next weeks):
+- diffusion-based model, mimicking the infarct front propagation from the endocardium.
+</font>
+
 Personalization is done by a learning process that optimizes the parameters of the models, with the algorithm CMA-ES (Covariance Matrix Adaptation - Evolution Strategy).
 
 ### Reference
 
-If you decide to re-use this code, please acknowledge the following publication, which presents the detailed evaluation of such personalization (choice of losses, hyperparameters, initial values):
+If you decide to re-use this code, please acknowledge the following publications:
 
-Konik A, Clarysse P, Duchateau N. Detailed evaluation of a population-wise personalization approach to generate synthetic myocardial infarct images. Pattern Recognition Letters. 2024. In press.
+Regarding the detailed evaluation of such personalization (choice of losses, hyperparameters, initial values):
+Konik A, Clarysse P, Duchateau N. Detailed evaluation of a population-wise personalization approach to generate synthetic myocardial infarct images. Pattern Recognition Letters. 2025;188:8-14.
+
+Regarding the diffusion-based model of infarct:
+<font color='red'>Reference to be indicated in the coming weeks.</font>
