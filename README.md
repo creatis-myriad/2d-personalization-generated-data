@@ -15,9 +15,9 @@ If you decide to re-use this code, please acknowledge the following publications
 
 Regarding the detailed evaluation of elliptical and iterative personalizations (choice of losses, hyperparameters, initial values):
 
-Konik A, Clarysse P, Duchateau N. Detailed evaluation of a population-wise personalization approach to generate synthetic myocardial infarct images. Pattern Recognition Letters. 2025;188:8-14.
+*Konik A, Clarysse P, Duchateau N. Detailed evaluation of a population-wise personalization approach to generate synthetic myocardial infarct images. Pattern Recognition Letters. 2025;188:8-14.*
 
 Regarding the diffusion-based model of infarct:
 
-Konik A, Deleat-Besson R, Clarysse P, Duchateau N. Population-based personalization of a 2D diffusion-based model of myocardial infarct. Proc. International Conference on Functional Imaging and Modeling of the Heart (FIMH), LNCS 2025. In press.
+*Konik A, Deleat-Besson R, Clarysse P, Duchateau N. Population-based personalization of a 2D diffusion-based model of myocardial infarct. Proc. International Conference on Functional Imaging and Modeling of the Heart (FIMH), LNCS 2025. In press.*
 
